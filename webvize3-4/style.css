@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(573352.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.farea .fone{
+    background-color: rgba(0, 120, 200, 0.9);
+    width: 50%;
+    height: 100%;
+    position: absolute;
+}
+.farea .texts{
+    margin-top: 30%;
+    margin-left: 30%;
+}
+.fone #fp{
+    color: white;
+    font-weight: bold;
+}
+.fone h1{
+    margin-top: 18px;
+    margin-bottom: 25px;
+    color: white;
+}
+.fone #lp{
+    color: white;
+    margin-right: 15px;
+}
+.imgs{
+    display: flex;
+    margin-top: 30px;
+}
+.imgs .image{
+    margin-right: 15px;
+}
+.areatwo{
+    background-color: white;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    position: absolute;
+    top: 645px;
+    left: 0;
+}
+.areatwo .areatwotwo{
+    width: 500px;
+    margin-left: -180px;
+}
+.areatwo .areatwoone{
+    margin-top: 55px;
+    margin-left: 14%;
+    margin-right: 15px;
+    width: 50%;
+}
+.areatwo #twopone{
+    margin-top: 45px;
+    font-weight: bold;
+}
+.areatwo #twoptwo{
+    margin-top: 17px;
+    font-size: 20px;
+}
+.areatwo #twopthree{
+    margin-top: 12px;
+    line-height: 25px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.perview .pler{
+    margin-top: 25px;
+    display: flex; justify-content: space-between;
+    width: 500px;
+}
+.perview .pler #langid{
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.8);
+}
+.perview .pler #secp{
+    position: absolute;
+    right: 205px;
+    color:rgba(0, 0, 0, 0.7);
+}
+.perview .pler .bar{
+    width: 400px;
+    background-color: grey;
+}
+.skill {
+    width: 450px;
+    margin-bottom: 14px;
+}
+  .skill #skill__infobr{
+    margin-top: 22px;
+  }
+.skill__info {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+  
+.skill #fbar{
+    margin-top: 8px;
+    background: lightgray;
+    width: 100%;
+    height: 8px;
+    border-radius: 9999px;
+    position:relative;
+}
+.skill #jqueryspan{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 70%;
+    background: rgba(0, 120, 200, 0.9);
+    border-radius: 9999px;
+}
+.skill #htmlspan{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 95%;
+    background: rgba(0, 120, 200, 0.9);
+    border-radius: 9999px;
+}
+.skill #javaspan{
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 80%;
+    background: rgba(0, 120, 200, 0.9);
+    border-radius: 9999px;
+}
+.areathree{
+    background-color: #364459;
+    height: 710px;
+    width: 100%;
+    position: absolute;
+    top: 1140px;
+}
+.areathree .threehead{
+    position: absolute;
+    left: 32vw;
+    width: 35%;
+}
+.areathree h1{
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: 50px;
+}
+.areathree p{
+    margin-top: 25px;
+    color:rgba(255, 255, 255, 0.7);
+    font-size: 20px;
+}
+.areathree .cards .card1{
+    width: 28%;
+    left: 33.7vw;
+    position: absolute;
+    height: 40px;
+    background-color: white;
+    top: 200px;
+    border-radius: 5px;
+    border-top: 4px #0984e3 solid;
+}
+.areathree .cards .card2{
+    width: 28%;
+    left: 33.7vw;
+    position: absolute;
+    height: 40px;
+    background-color: white;
+    top: 370px;
+    border-radius: 5px;
+    border-top: 4px #0984e3 solid;
+}
+.areathree .cards .card3{
+    width: 28%;
+    left: 33.7vw;
+    position: absolute;
+    height: 40px;
+    background-color: white;
+    top: 540px;
+    border-radius: 5px;
+    border-top: 4px #0984e3 solid;
+}
+.areathree .cards .card1{
+    margin-bottom: 50px;
+    padding: 50px;
+    margin-left: -25px;
+}
+.areathree .cards .card1 h3{
+    margin-top: -40px;
+    margin-left: -25px;
+    font-weight: 100;
+    padding: 0;
+}
+.areathree .cards .card1 p{
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+}
+.areathree .cards .card2{
+    margin-bottom: 50px;
+    padding: 50px;
+    margin-left: -25px;
+}
+.areathree .cards .card2 h3{
+    margin-top: -40px;
+    margin-left: -25px;
+    padding: 0;
+    font-weight: 100;
+}
+.areathree .cards .card2 p{
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+}
+.areathree .cards .card3{
+    margin-bottom: 50px;
+    padding: 50px;
+    margin-left: -25px;
+}
+.areathree .cards .card3 h3{
+    margin-top: -40px;
+    margin-left: -25px;
+    font-weight: 100;
+    padding: 0;
+}
+.areathree .cards .card3 p{
+    color: rgba(0, 0, 0, 0.5);
+    margin-top: 10px;
+}
